@@ -1,0 +1,68 @@
+# -*- coding: utf-8 -*-
+[core]
+name = Bhumij
+hid = bhu
+level = language
+iso639-3 = bhu
+latitude = 22.552
+longitude = 85.804
+macroareas = 
+	Eurasia
+countries = 
+	IN
+links =
+ [Bhumij](https://wals.info/languoid/lect/wals_code_bhu)
+	[Bhumij](https://endangeredlanguages.com/lang/1601)
+	https://en.wikipedia.org/wiki/Bhumij_language
+	https://www.wikidata.org/entity/Q57920059
+
+[sources]
+glottolog = 
+	**cldf:lewis:ed:09**
+	**cldf:np:14:6**
+	**hh:d:Sardar:Bhumija**
+	**hh:e:Chowdhury:Bhumij**
+	**hh:e:Das:Bhumijas**
+	**hh:g:Ramaswami:Bhumij**
+	**hh:typ:Samala:Bhumij**
+	**hh:vtyp:NigamDasgupta:Mundari-Bhumij**
+	**hh:w:Campbell:India**
+	**hh:wdial:Kobayashi:Kherwarian**
+
+[altnames]
+multitree = 
+	Bhumij
+	Bhumij Munda
+	Bhumij Thar
+	Bhumiɟ
+	Sadar Bhumij
+lexvo = 
+	भूमिज भाषा [hi]
+	Bhumij language [en]
+	Bhumij [en]
+ ভূমিজ ভাষা [bn]
+hhbib_lgcode = 
+	Bhumij
+	Bhumij Maunbhoom
+	Bhumija
+	Bhumijas of Seraikella
+	Bhúmij
+
+[triggers]
+lgcode = 
+	bhumij
+
+[identifier]
+wals = bhu
+multitree = 
+
+[classification]
+sub = **hh:d:Hoffmann:Mundarica**
+subrefs = 
+	**hh:d:Hoffmann:Mundarica**
+
+[endangerment]
+status = not endangered
+source = ElCat
+date = 2025-07-23T13:37:00
+comment = Bhumij (1601-unr-bhu) = At risk (20 percent certain, based on the evidence available)
